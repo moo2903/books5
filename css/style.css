@@ -1,0 +1,54 @@
+body {
+    background-color:	#f8f6f5;
+    background-repeat: no-repeat;
+}
+  
+  
+#haone { 
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-size: 200 px;
+    font-style: normal;
+    color: #0f7055;
+  }
+  
+#hatwo {
+    font-family: "Itim", cursive;
+    font-size: 250 px;
+    font-weight: 400;
+    font-style: normal;
+    color: #5d5d5a;
+  }
+  
+#hathree {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 600;
+    font-size: 500 px;
+    font-style: normal;
+    color: #22443b;
+  }
+  
+  #hafour {
+    font-family: "Athiti", sans-serif;
+    font-weight: 500;
+    font-size: 100 px;
+    font-style: normal;
+    color: #654633;
+  }
+
+  #hafive {
+    font-family: "Mitr", sans-serif;
+    font-weight: 300;
+    font-size: 100 px;
+    font-style: normal;
+    color: #a69d9b;
+  }
+  
+  #hasix {
+    font-family: "Athiti", sans-serif;
+    font-weight: 500;
+    font-size: 100 px;
+    font-style: normal;
+    color: #efe095;
+  }
+
